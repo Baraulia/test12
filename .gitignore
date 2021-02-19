@@ -1,0 +1,4 @@
+/BG_Mebel/db.sqlite3
+/venv/
+/BG_Mebel/main/migrations/*
+!/BG_Mebel/main/migrations/__init__.py
